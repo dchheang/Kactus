@@ -1,4 +1,7 @@
 {
   "shareLayerStyles": true,
-  "shareTextStyles": true
+  "shareTextStyles": true,
+  "sharedPages": [
+    "Desktop"
+  ]
 }
